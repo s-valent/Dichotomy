@@ -1,0 +1,7 @@
+name = "Dichotomy"
+uuid = "3e04978e-73da-4e7d-a2e6-76479999a5dc"
+authors = ["s-valent <valent.shinkarev@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
